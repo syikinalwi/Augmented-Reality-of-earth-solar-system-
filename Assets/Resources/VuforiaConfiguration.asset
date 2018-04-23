@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: ARiyYX3/////AAAAmX8dAPobckywoCs07u2+SIQdMxL7+XJgshpsV/e+iLYpoOQvg2iw9NdlLRuMIx0jPzxcjLRm3pyEjUDfENtdZipR3sxxkkMZKIEe2iH1eiK6mucuEGHcTrqL33HwGNMJyfiJYeIOqQ+YGiiZHYHd3kNYkV0nQfgvDr1NnqJDKvJeOTSOOGYihZ89pXTGNGj3tOB2Ga3020FyEvh2GyF05urmLuhayB2gA8VrbkH4HiCZt21si0c3DO+Jz9uIogzCnQzPSWPqfIe9WombDOOdLthfRQ0VGrf98p65OW9qnhdOH/DCgI9Z7+4m3YuiewJJBbUG3HnyxHKv2QGODs99mWkqFJndS79xPvAzTNsNHnLS
+    vuforiaLicenseKey: ATsYh2f/////AAABmV1E/XqmDEUws1CTw6ur/vMSnkVp+GCr8dNTK9fZIcMD9dhDwQVCvZvHa/7VwKVxVDV4C6v+ub0SqbEwuW+OKOU8ootyzxbhZT/yxmQEnGqjbdoiw4fvDe6CpzIGTIEqV6h6qr8G1KY0fM8/BG1r52/Mbfoe4JQToQ6Gr6iE8tEhKzbVqsvrs7GojsUZJDsz8/PiiR2EQ1jy56FKIXt/Nx3GcdhFFY+yl3CkWhWrR8aopkTUHJna/LEZA/vyKSGloOgb7/yd/WypthasG0JKSU3fxjvHdKfjRHib1wJ0cr6QEr/XzFPJbLw2qnD6j0xaVNAaYRr0+zJRtxmIojADhyBlDumDE4Mpm1wNheSwHVvT
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -44,13 +44,15 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
-    - creating_main_menu_1
-    - P_Zuhrah
+    - P_Uranus
+    - P_Neptune
     - P_Bumi
+    - creating_main_menu_1
     dataSetsToActivate:
-    - creating_main_menu_1
-    - P_Zuhrah
+    - P_Uranus
     - P_Bumi
+    - P_Neptune
+    - creating_main_menu_1
   videoBackground:
     clippingMode: 0
     matteShader: {fileID: 4800000, guid: f84e93cca971cda47a225f4c6a4156c9, type: 3}

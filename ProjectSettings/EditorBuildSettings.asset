@@ -20,3 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Earth.unity
     guid: 192a8e80174a91549b4f7e39c831679b
+  - enabled: 1
+    path: Assets/Pluto.unity
+    guid: d6d226ce94c6218418617c2f3a7e4272
+  - enabled: 1
+    path: Assets/Neptune.unity
+    guid: 32daefd2cf2315947953b2608153687a
+  - enabled: 1
+    path: Assets/Uranus.unity
+    guid: c3a49d49b63321444919cb96dc652a39
