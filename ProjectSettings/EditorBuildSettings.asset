@@ -17,3 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GUIZuhrahBumi.unity
     guid: f6aef54c57251f74ca8fcd88254dcb44
+  - enabled: 1
+    path: Assets/Earth.unity
+    guid: 192a8e80174a91549b4f7e39c831679b
