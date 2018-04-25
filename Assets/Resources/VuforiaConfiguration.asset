@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: ATsYh2f/////AAABmV1E/XqmDEUws1CTw6ur/vMSnkVp+GCr8dNTK9fZIcMD9dhDwQVCvZvHa/7VwKVxVDV4C6v+ub0SqbEwuW+OKOU8ootyzxbhZT/yxmQEnGqjbdoiw4fvDe6CpzIGTIEqV6h6qr8G1KY0fM8/BG1r52/Mbfoe4JQToQ6Gr6iE8tEhKzbVqsvrs7GojsUZJDsz8/PiiR2EQ1jy56FKIXt/Nx3GcdhFFY+yl3CkWhWrR8aopkTUHJna/LEZA/vyKSGloOgb7/yd/WypthasG0JKSU3fxjvHdKfjRHib1wJ0cr6QEr/XzFPJbLw2qnD6j0xaVNAaYRr0+zJRtxmIojADhyBlDumDE4Mpm1wNheSwHVvT
+    vuforiaLicenseKey: AV5JP2T/////AAAAmUTArQ5BkEOGgAsj3uCxxppYQmXKOayp0p+wHT99RXZIg/ptAfiWWkXFU3UpEDXUDwijMbkPSrc1w1H2phDJv9ooJIEBS+CXFXuHeKQp3oPj7TMZfOhLB3vWbmHcG+0mdEbdwsGTLBJz0pUKHix69+Q9+jfpDHM8iK8AFDjPA1ggFfeHjV1KPoRaoqcQxFILPmsvoRzUNntiykPYHPcZU8Nclg0JO0cLKTE9DeznXLFpjYWFZmHPLUzVbO1jXKqiU6fmGI6zgElYgebJaUb5UEtCY1KhvKp77vbXqEllXlaEhXNFDJdDd4D4A3f1+6YSQ4sWM3fbQjxhO3SeFWdHlv28obVGza8K62tUwdsT+dpX
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 1
@@ -44,11 +44,21 @@ MonoBehaviour:
       ContainsMagnet: 0
   databaseLoad:
     dataSetsToLoad:
+    - P_Utarid
+    - P_Zuhrah
+    - P_Marikh
+    - P_Musytari
+    - P_Zuhal
     - P_Uranus
     - P_Neptune
     - P_Bumi
     - creating_main_menu_1
     dataSetsToActivate:
+    - P_Utarid
+    - P_Zuhrah
+    - P_Marikh
+    - P_Musytari
+    - P_Zuhal
     - P_Uranus
     - P_Bumi
     - P_Neptune
