@@ -29,3 +29,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Uranus.unity
     guid: c3a49d49b63321444919cb96dc652a39
+  - enabled: 1
+    path: Assets/Sun.unity
+    guid: 09dfee60389ff044689f8f5da7350c77
+  - enabled: 1
+    path: Assets/Utarid.unity
+    guid: 7d000ac60dcacd24f91d95b31edbbb53
+  - enabled: 1
+    path: Assets/Zuhrah.unity
+    guid: cccca7c58691520458844125aecb8ad9
+  - enabled: 1
+    path: Assets/Marikh.unity
+    guid: 7fa8e19a2ff1b1b4bbab3d3165366b70
+  - enabled: 1
+    path: Assets/Musytari.unity
+    guid: ccdf4517d29b4d64fb83f0f7e8b24cea
+  - enabled: 1
+    path: Assets/Zuhal.unity
+    guid: a0ff301e1600605489356b324671e3cc
